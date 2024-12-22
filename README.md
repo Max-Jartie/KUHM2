@@ -89,7 +89,7 @@ graph TD
 
 Файл config.csv содержит настройки программы:  
 
-/path/to/visualizer,requests,output/requests_graph.mmd,https://github.com/username/repository
+/path/to/visualizer,requests,output/requests_graph.mmd
 
 
 ---
