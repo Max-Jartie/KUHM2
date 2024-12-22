@@ -49,7 +49,7 @@
 
 Запускаем программу с конфигурационным файлом:  
 
-python visualizer.py config.csv
+python dependency_visualizer.py config.csv
 
 
 ---
