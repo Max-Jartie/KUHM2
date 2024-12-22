@@ -96,14 +96,14 @@ graph TD
 
 ## Результат работы юнит-тестов  
 
-![tests](https://github.com/username/repository/blob/main/screenshots/tests_result.png)  
+![tests](https://github.com/Max-Jartie/KUHM2/blob/main/unitTest.png)  
 
 ---
 
 ## Результат работы программы  
 
 ### Граф зависимостей в формате Mermaid  
-![mermaid](https://github.com/username/repository/blob/main/screenshots/graph_result.png)  
+![mermaid](https://github.com/Max-Jartie/KUHM2/blob/main/graphA.png)  
 
 ### Вывод содержимого файла  
 graph TD
